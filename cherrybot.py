@@ -7,6 +7,7 @@ import tweepy
 from datetime import timedelta, datetime
 import random
 
+# time set up to gather status from the past 5 hours used in the search query
 rtime = datetime.now() - timedelta(hours=-5)
 
 consumer_key = ''
