@@ -100,7 +100,7 @@ access_token_secret = ''
 **The main process**
 ```python
 #char limit for the status so you can add more to it
-new_status = (os.popen('fortune -n 120; echo "#basic_twitter powered by: #cloudofyourchoice and #python"').read())
+new_status = (os.popen('fortune -n 120; echo "#basic_twitter_bot powered by: #cloudofyourchoice and #python"').read())
 ##used to confirm status was working
 print new_status
 
