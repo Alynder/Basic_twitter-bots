@@ -58,7 +58,7 @@ searchQuery = 'place:96683cc9126741d1 #linux OR #opensource OR #python OR #inter
               '#networking OR #openstack OR #github OR #gitlab'
 ```
 
-**Query count of tweet and Text file to save to**
+**Query count of tweet and json file to save to**
 
 _Used for confirming the stringency of the search query and limiting or adding more to search for_
 
