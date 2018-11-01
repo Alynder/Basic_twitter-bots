@@ -9,6 +9,7 @@ The tweepy api was easy to put together for this bot the documenation was robust
 I suggest you take a look [here](http://docs.tweepy.org/en/v3.6.0/index.html)
 _________________
 **For the authentication using tweepy please [click here](http://docs.tweepy.org/en/v3.6.0/cursor_tutorial.html)**
+
 The cursor has proven to be an amazing way to connect and relatively easy to configure. While it is configured in these scripts, it is a very good read for knowledges sake.
 
 ## Prereqs for bots
