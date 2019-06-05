@@ -45,7 +45,7 @@ api.rate_limit_status()['resources']['search']
 #This is what we are searching for
 #We can restrict the location of tweets using place:id 
 #We can search for multiple phrases using OR
-searchQuery = 'place:96683cc9126741d1 #linux OR #opensource OR #python OR #internet2 OR' \
+searchQuery = 'place:' + place_id + '#linux OR #opensource OR #python OR #internet2 OR' \
               '#aws OR #ansible OR #kubernetes OR #openshift OR #bash OR #cloudformation OR' \
               '#devops OR #100daysofcode OR #ruby OR #freecodecamp OR #learntocode OR #womenintech OR' \
               '#networking OR #openstack OR #github OR #gitlab'
